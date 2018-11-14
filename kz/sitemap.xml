@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  
+  <url>
+    <loc>http://localhost/kz/#history</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/kz/#administration</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/kz/#prices</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/kz/#departments</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/kz/#contacts</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost/kz/#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost/kz/#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost/kz/#</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
